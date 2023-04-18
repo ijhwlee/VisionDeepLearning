@@ -4,3 +4,6 @@ https://www.mongodb.com/community/forums/t/keep-getting-serverselectiontimeouter
 2. rename file .pem to .cer (파일 확장자 수정)
 3. double click and install (더블클릭해서 인증서 설치)
 이렇게 인증서를 설치하면 SSL 관련 문제는 해결됨.
+
+RequestsDependencyWarning: urllib3 (1.26.6) or chardet (5.1.0)/charset_normalizer (2.0.4) doesn't match a supported version! 문제 해결 방법
+pip install --upgrade requests
