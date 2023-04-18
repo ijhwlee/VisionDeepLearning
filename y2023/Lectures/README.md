@@ -1,6 +1,6 @@
 List of lecture files
 
-**오류 및 경고 헤결 방법**
+**오류 및 경고 해결 방법**
 SSLCertificate 오류가 발생할 때의 처치 방법 [SSL: CERTIFICATE_VERIFY_FAILED]
 https://www.mongodb.com/community/forums/t/keep-getting-serverselectiontimeouterror/126190/12 에 기술된 방법임.
 1. Download https://letsencrypt.org/certs/lets-encrypt-r3.pem 
