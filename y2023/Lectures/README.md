@@ -12,9 +12,12 @@ RequestsDependencyWarning: urllib3 (1.26.6) or chardet (5.1.0)/charset_normalize
 ```pip install --upgrade requests```
 
 **Jupyter Kernel 관련 명령**
+
 Juputer Kernal 목록 보기
 ```jupyter kernelspec list```
+
 Jupyter kernel 설치
 ```ipython kernel install --name "opencv" --user```
+
 Jupyter kernal 삭제
 ```jupyter kernelspec remove opencv```
